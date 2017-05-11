@@ -1,0 +1,14 @@
+/*******************************************************************
+    [ README ]
+
+    Responde las preguntas siguientes:
+
+    1.- Si añadimos en este orden { “b”, “c”, “a” } a un TreeSet
+        ¿Cuál sería la salida si iteramos sobre esta estructura?
+    2.- Crea tu propia clase Pair que permita almacenar dos
+        tipos distintos de datos.
+    3.- Extiende la clase Pair que has creado anteriormente
+        y haz una clase SingleTypePair que limite sus atributos
+        a un solo tipo.
+
+*******************************************************************/
